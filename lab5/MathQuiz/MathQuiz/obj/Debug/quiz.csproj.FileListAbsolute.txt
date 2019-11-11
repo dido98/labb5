@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\obj\Debug\quiz.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\obj\Debug\quiz.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\HP\Desktop\lab5\lab5\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
